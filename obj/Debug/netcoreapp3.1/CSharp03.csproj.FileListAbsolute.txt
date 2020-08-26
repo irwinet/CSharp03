@@ -1,0 +1,13 @@
+H:\Cursos Udemy\.NET SDK\CSharp03\obj\Debug\netcoreapp3.1\CSharp03.csprojAssemblyReference.cache
+H:\Cursos Udemy\.NET SDK\CSharp03\obj\Debug\netcoreapp3.1\CSharp03.AssemblyInfoInputs.cache
+H:\Cursos Udemy\.NET SDK\CSharp03\obj\Debug\netcoreapp3.1\CSharp03.AssemblyInfo.cs
+H:\Cursos Udemy\.NET SDK\CSharp03\obj\Debug\netcoreapp3.1\CSharp03.csproj.CoreCompileInputs.cache
+H:\Cursos Udemy\.NET SDK\CSharp03\bin\Debug\netcoreapp3.1\CSharp03.exe
+H:\Cursos Udemy\.NET SDK\CSharp03\bin\Debug\netcoreapp3.1\CSharp03.deps.json
+H:\Cursos Udemy\.NET SDK\CSharp03\bin\Debug\netcoreapp3.1\CSharp03.runtimeconfig.json
+H:\Cursos Udemy\.NET SDK\CSharp03\bin\Debug\netcoreapp3.1\CSharp03.runtimeconfig.dev.json
+H:\Cursos Udemy\.NET SDK\CSharp03\bin\Debug\netcoreapp3.1\CSharp03.dll
+H:\Cursos Udemy\.NET SDK\CSharp03\bin\Debug\netcoreapp3.1\CSharp03.pdb
+H:\Cursos Udemy\.NET SDK\CSharp03\obj\Debug\netcoreapp3.1\CSharp03.dll
+H:\Cursos Udemy\.NET SDK\CSharp03\obj\Debug\netcoreapp3.1\CSharp03.pdb
+H:\Cursos Udemy\.NET SDK\CSharp03\obj\Debug\netcoreapp3.1\CSharp03.genruntimeconfig.cache
